@@ -1,3 +1,7 @@
+# Project specifics
+05_project_face_generation/*/data/*
+04_project_ language_translation/*/data/*
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
